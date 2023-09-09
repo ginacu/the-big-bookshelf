@@ -45,5 +45,10 @@ table {
 
 .logo img {
     height: 60px;
-    margin: 15px !important;
+    margin: 10px !important;
+}
+
+#search h1 {
+	font-size: 30px;
+	
 }
